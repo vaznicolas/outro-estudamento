@@ -8,7 +8,7 @@ const frutas = [
     "abacaxi",
     "morango",
     "kiwi",
-    "mamão"
+    "mamaracua"
 ];
 
 module.exports = frutas;
